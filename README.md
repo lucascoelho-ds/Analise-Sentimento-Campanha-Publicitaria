@@ -1,5 +1,3 @@
-# nlp-u3a1-aplicacoes
-
 # Análise Básica de Sentimentos com spaCy e Naive Bayes
 
 Script em Python que treina um classificador de sentimentos (positivo, negativo, neutro) a partir de comentários em português, usando pré-processamento linguístico com spaCy e um modelo Naive Bayes (scikit-learn).
